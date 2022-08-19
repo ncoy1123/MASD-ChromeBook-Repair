@@ -58,9 +58,17 @@ Important notes for screen cable:
 - Try to put the screen cable back as close to factory as it can be. If not, it can be hard or put the bezel back on or cause interference with the bezel
 
 ## Camera Issues
-- It's worth a shot to image the Chromebook first. Occasionally a student disables permission for the camera, and imaging also can help with other issues.
-- Similarly to the screen cable, the cable breaks due to bending with the hinge. I have a few extra cameras, but it has only been a camera issue a single time.
-    - If it does happen to be a camera issue and not a cable issue, it will have to be carefully removed as it is glued in and is connected to a big silver sheet behind the screen. The camera will have to be cut from the silver sheet.
-- The keyboard will have to be removed as well as the bezel  will have to be removed, but unlike the screen, there are no screws that need to be undone.
-- There are currently 3 types of cables. The 18,19 share one type and the 20 with a smooth lid and with a textured lid both have their own.
-    - The 18, 19 camera cable is the widest and the two 20 cables are skinnier. One has a skinny side and one that's a little wider, and the other has 2 skinny sides.
+It's always worth a shot to image the Chromebook first with a camera issue. Occasionally a student disables permission for the camera, and imaging also can help with other unrelated issues. Similarly to the screen cable, the cable breaks due to bending with the hinge. A camera issue its self has only been an issue two times. The camera can be tested by either logging in and using the camera application, or by the scanning a badge option on login.
+The steps to replace a camera cable are simular to a screen issue and is the following steps:
+
+  1.  Remove the 8 or 6 screws on the back, depending on the model
+2.  It is easiest to start right at the Kensington lock and slowly pry up the keyboard
+3.  Remove the ribbon cables for the keyboard and the trackpad once the keyboard is up
+4. Remove bezel
+5. unscrew the top left screw the holds down the metal bracket at the top and the top left screen screw
+6. The  screen/metal bracket on the left side can be removed if you would like because it can be difficult to pull the camera cable out or especially hard to put back in at first.
+  
+Important notes for screen cable:
+- If it does happen to be a camera issue and not a cable issue, it will have to be carefully removed as it is glued in. It is glued to a big silver sheet behind the screen, which will have to be cut to separate them.
+- There are currently 3 types of cables. The 18,19 share one type and the 20 with a smooth lid and with a textured lid both have their own. The 18, 19 camera cable is the widest, and the two 20 cables are skinnier. One has a skinny side and one that's a little wider, and the other has 2 skinny sides, which I believe is the smooth 20.
+- The camera cable is extremely delicate, and it has to be carefully put back in. The camera cable component is the only component that I have broken, and it is during the installation. It was tested working and right after installation it did not work.
