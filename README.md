@@ -1,13 +1,13 @@
 # ChromeBook Repair
-    For the process of repairing Chromebooks, it is always a good first step to go through all Chromebooks in the morning and put them in piles based on their issues. Charge any Chromebooks that are listed as having power issue and go through the others, and any that are dead or very low should be charged to them for a few hours. This saves a lot of time by preventing any from dying when being worked on or can help diagnose battery issues.
+For the process of repairing Chromebooks, it is always a good first step to go through all Chromebooks in the morning and put them in piles based on their issues. Charge any Chromebooks that are listed as having power issue and go through the others, and any that are dead or very low should be charged to them for a few hours. This saves a lot of time by preventing any from dying when being worked on or can help diagnose battery issues.
 
 ## Power Issues
 #### Battery Issue
-    Especially after breaks, it seems like a lot of Chromebooks come in as battery issues, but the Chromebooks are just dead, and were not left to charge long enough.  This is partly the importance of charging all the power related Chromebooks first to prevent good batteries from being recycled. 
+Especially after breaks, it seems like a lot of Chromebooks come in as battery issues, but the Chromebooks are just dead, and were not left to charge long enough.  This is partly the importance of charging all the power related Chromebooks first to prevent good batteries from being recycled. 
 
-    There are three types of power issues are screen issues, battery issues, and motherboard issues.
+There are three types of power issues are screen issues, battery issues, and motherboard issues.
 
-    For battery issues when the Chromebook is plugged in, typically the charging light will flash, which is the easiest way to know that the power issue is caused by a bad battery. Batteries are all  intercompatible for TESTING, except for 2017 Chromebook batteries. The batteries can be used for testing, but for installation the 18/19 batteries have a different set of mounting holes compared to the 20/21/22. Batteries are the easiest to repair and only require these steps:
+For battery issues when the Chromebook is plugged in, typically the charging light will flash, which is the easiest way to know that the power issue is caused by a bad battery. Batteries are all  intercompatible for TESTING, except for 2017 Chromebook batteries. The batteries can be used for testing, but for installation the 18/19 batteries have a different set of mounting holes compared to the 20/21/22. Batteries are the easiest to repair and only require these steps:
 1.  Remove the 8 or 6 screws on the back, depending on the model
 2.  It is easiest to start right at the Kensington lock and slowly pry up the keyboard
 3.  Remove the ribbon cables for the keyboard and the trackpad once the keyboard is up
@@ -21,15 +21,15 @@ Important notes for battery replacements:
 - Typically, I've tried to have the battery discharge rate under 0.8% over the 5-minute test. Sometimes it will be over 0.8%, but if you run the test a second time it is often under.
 
 #### Motherboard Issues
-    Motherboard issues, are typically pretty straightforward. If you swap out a few batteries, and they don't work, then plug in a mouse and see if the mouse light turns on. If the mouse light does not turn on with any USB port with different batteries, then the motherboard is dead.
+Motherboard issues, are typically pretty straightforward. If you swap out a few batteries, and they don't work, then plug in a mouse and see if the mouse light turns on. If the mouse light does not turn on with any USB port with different batteries, then the motherboard is dead.
 
-    If you do the motherboard test and the mouse light comes on then that means it is the display cable that's the issue or rarely the display itself
+If you do the motherboard test and the mouse light comes on then that means it is the display cable that's the issue or rarely the display itself
 
 ## Display Issues
-    For Chromebook displays, all displays and display cables are intercompatible except for the 2017 Chromebook. The 2017 Chromebook display is intercompatible with any other display, but the cable is not due to it being a combination display cable and the camera cable. 
+For Chromebook displays, all displays and display cables are intercompatible except for the 2017 Chromebook. The 2017 Chromebook display is intercompatible with any other display, but the cable is not due to it being a combination display cable and the camera cable. 
 
 #### Screen Issues
-    For a display that was cracked, only the display itself should have to be replaced and the cable in almost all scenarios still works. If the screen is cracked or similarly damaged follow these steps:
+For a display that was cracked, only the display itself should have to be replaced and the cable in almost all scenarios still works. If the screen is cracked or similarly damaged follow these steps:
     1. Remove bezel
     2. unscrew the four screws and take off the screen
     3. The screen will be attached at the bottom with a cable, which will still work. Only the screen its self will have to be removed and replaced.
