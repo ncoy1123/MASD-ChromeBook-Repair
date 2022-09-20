@@ -46,9 +46,9 @@ For Chromebook displays, all displays and display cables are intercompatible exc
 
 #### Screen Issues
 For a display that was cracked, only the display itself should have to be replaced and the cable in almost all scenarios still works. If the screen is cracked or similarly damaged follow these steps:
-    1. Remove bezel
-    2. unscrew the four screws and take off the screen
-    3. The screen will be attached at the bottom with a cable, which will still work. Only the screen its self will have to be removed and replaced.
+1. Remove bezel
+2. unscrew the four screws and take off the screen
+3. The screen will be attached at the bottom with a cable, which will still work. Only the screen its self will have to be removed and replaced.
 
 #### Screen Cable Issues
 
