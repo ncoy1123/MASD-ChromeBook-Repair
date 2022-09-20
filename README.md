@@ -1,12 +1,22 @@
 # ChromeBook Repair
+## Starting Repairs
 For the process of repairing Chromebooks, it is always a good first step to go through all Chromebooks in the morning and put them in piles based on their issues. Charge any Chromebooks that are listed as having power issue and go through the others, and any that are dead or very low should be charged to them for a few hours. This saves a lot of time by preventing any from dying when being worked on or can help diagnose battery issues.
 
 ## Keyboard Issues
-Keyboard issues are the most basic to repair, and removing the keyboard is the first step for almost all other repairs. The best way to replace a keyboard is unscrew the screws from the back of the Chromebook, then open it to the Chromebook starting by the Kensington lock and working down and around the keyboard until it comes off. The keyboard can then be swapped out or if it's a new keyboard, a trackpad can be swapped in by unscrewing the three screws above and three screws below the trackpad holding it in
+Keyboard issues are the most basic to repair, and removing the keyboard is the first step for almost all other repairs. The best way to replace a keyboard is by:
+ 1.  Remove the 8 or 6 screws on the back, depending on the model
+2.  It is easiest to start right at the Kensington lock and slowly pry up the keyboard
+3. if it's a new keyboard, a trackpad can be swapped in by unscrewing the three screws above and three screws below the trackpad holding it in
 
 Keyboard issues could also rarely be caused by their board issues. It is very uncommon but seems to happen currently only with 2018 motherboards
 
-Due to the low number of parts, rather than replacing a keyboard that has missing keys they can often be transplanted from another keyboard. If the keycaps and switch of the keyboard fell off or were pulled off about the membrane is still attached to the keyboard, a keycap and switch can easily be transplanted. The keycaps and switches can be replaced by using one of the donor keyboards that were dead where the other parts are. They can both just be carefully pulled off, and it is easiest if the switch stays in one piece. If the switch does split into the two pieces, they can just be snapped back together. Then the best way to transplant the switch is to start on the side where the switch is the fattest and get the knobs to it below the metal hooks. Then the smaller knobs on the inside of the switch can then be snapped into place under the other metal arms by pushing down and toward you if the keyboard is in the orientation as if you were typing.
+Due to the low number of parts, rather than replacing a keyboard that has missing keys they can often be transplanted from another keyboard. If the keycaps and switch of the keyboard fell off or were pulled off about the membrane is still attached to the keyboard, a keycap and switch can easily be transplanted. The keycaps and switches can be replaced by:
+1. Orientation as if you were typing.
+2. Carefully pulling a keycap and switch from one of the donor keyboards where the other parts are. 
+	- It is easiest if the switch stays in one piece. If the switch does split into the two pieces, they can just be snapped back together. which can be tricky getting the orentation right so it can be helpful to look pull just a keycap off to look at how the 2 swtich pieces are conencted
+3. Start on the outerpiece where the knobs are at the top and get it below the uppermetal hooks
+4. Then the smaller piece with the knobs on the inside of the switch can then be snapped into place under the other metal arms by pushing down and toward you 
+
 ## Power Issues
 #### Battery Issue
 Especially after breaks, it seems like a lot of Chromebooks come in as battery issues, but the Chromebooks are just dead, and were not left to charge long enough.  This is partly the importance of charging all the power related Chromebooks first to prevent good batteries from being recycled. 
