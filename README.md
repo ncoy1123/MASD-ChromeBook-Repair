@@ -1,6 +1,12 @@
 # ChromeBook Repair
 For the process of repairing Chromebooks, it is always a good first step to go through all Chromebooks in the morning and put them in piles based on their issues. Charge any Chromebooks that are listed as having power issue and go through the others, and any that are dead or very low should be charged to them for a few hours. This saves a lot of time by preventing any from dying when being worked on or can help diagnose battery issues.
 
+## Keyboard Issues
+Keyboard issues are the most basic to repair, and removing the keyboard is the first step for almost all other repairs. The best way to replace a keyboard is unscrew the screws from the back of the Chromebook, then open it to the Chromebook starting by the Kensington lock and working down and around the keyboard until it comes off. The keyboard can then be swapped out or if it's a new keyboard, a trackpad can be swapped in by unscrewing the three screws above and three screws below the trackpad holding it in
+
+Keyboard issues could also rarely be caused by their board issues. It is very uncommon but seems to happen currently only with 2018 motherboards
+
+Due to the low number of parts, rather than replacing a keyboard that has missing keys they can often be transplanted from another keyboard. If the keycaps and switch of the keyboard fell off or were pulled off about the membrane is still attached to the keyboard, a keycap and switch can easily be transplanted. The keycaps and switches can be replaced by using one of the donor keyboards that were dead where the other parts are. They can both just be carefully pulled off, and it is easiest if the switch stays in one piece. If the switch does split into the two pieces, they can just be snapped back together. Then the best way to transplant the switch is to start on the side where the switch is the fattest and get the knobs to it below the metal hooks. Then the smaller knobs on the inside of the switch can then be snapped into place under the other metal arms by pushing down and toward you if the keyboard is in the orientation as if you were typing.
 ## Power Issues
 #### Battery Issue
 Especially after breaks, it seems like a lot of Chromebooks come in as battery issues, but the Chromebooks are just dead, and were not left to charge long enough.  This is partly the importance of charging all the power related Chromebooks first to prevent good batteries from being recycled. 
@@ -23,7 +29,7 @@ Important notes for battery replacements:
 #### Motherboard Issues
 Motherboard issues, are typically pretty straightforward. If you swap out a few batteries, and they don't work, then plug in a mouse and see if the mouse light turns on. If the mouse light does not turn on with any USB port with different batteries, then the motherboard is dead.
 
-If you do the motherboard test and the mouse light comes on then that means it is the display cable that's the issue or rarely the display itself
+If you do the motherboard test and the mouse light comes on then that means it is the display cable that's the issue or rarely the display itself. - As of the 22-23 school year there is starting to be a few that the light does come on but it seems to be a motherboard display issue.
 
 ## Display Issues
 For Chromebook displays, all displays and display cables are intercompatible except for the 2017 Chromebook. The 2017 Chromebook display is intercompatible with any other display, but the cable is not due to it being a combination display cable and the camera cable. 
@@ -54,24 +60,50 @@ The screen cable seems to go bad often as it always gets bent with the hinge. Th
 
 Important notes for screen cable:
 - This issue is far less common, but if there is a backlight but the LCD panel is not on, check that the connection is not loose on the screen side connector when removing the screen. For that symptom, the loose connector is almost always the issue.
-
 - Try to put the screen cable back as close to factory as it can be. If not, it can be hard or put the bezel back on or cause interference with the bezel
+- When useing a 17 display they have a metal piece that goes along the top. This must be removed before putting in another chromebook. If its not removed it can cause the bezel to nit be able to fit back on.
 
 ## Camera Issues
+#### Camera Cable
 It's always worth a shot to image the Chromebook first with a camera issue. Occasionally a student disables permission for the camera, and imaging also can help with other unrelated issues. Similarly to the screen cable, the cable breaks due to bending with the hinge. A camera issue its self has only been an issue two times. The camera can be tested by either logging in and using the camera application, or by the scanning a badge option on login.
 The steps to replace a camera cable are simular to a screen issue and is the following steps:
 
-  1.  Remove the 8 or 6 screws on the back, depending on the model
+ 1.  Remove the 8 or 6 screws on the back, depending on the model
 2.  It is easiest to start right at the Kensington lock and slowly pry up the keyboard
 3.  Remove the ribbon cables for the keyboard and the trackpad once the keyboard is up
 4. Remove bezel
 5. unscrew the top left screw the holds down the metal bracket at the top and the top left screen screw
 6. The  screen/metal bracket on the left side can be removed if you would like because it can be difficult to pull the camera cable out or especially hard to put back in at first.
   
-Important notes for screen cable:
+  
+Important notes for Camera cable:
 - If it does happen to be a camera issue and not a cable issue, it will have to be carefully removed as it is glued in. It is glued to a big silver sheet behind the screen, which will have to be cut to separate them.
 - There are currently 3 types of cables. The 18,19 share one type and the 20 with a smooth lid and with a textured lid both have their own. The 18, 19 camera cable is the widest, and the two 20 cables are skinnier. One has a skinny side and one that's a little wider, and the other has 2 skinny sides, which I believe is the smooth 20.
 - The camera cable is extremely delicate, and it has to be carefully put back in. The camera cable component is the only component that I have broken, and it is during the installation. It was tested working and right after installation it did not work.
+
+#### Blurry Camera
+A blurry camera can be fixed just by using an X-acto knife and taking the clear plastic camera cover off on the bezel of the Chromebook. Blurry cameras camping when students scratch or markup the lens cover.
+
+## Network Issues
+Network issues  typically have  three different fixes. 
+- A Chromebook is low on battery can cause issues which charges fora few hours fixes
+- The Chromebook has not been shut down  which a full shutdown and pause can often - fix imaging the Chromebook especially if it seems slow can fix a lot of issues
+
+
+If neither one of those work and then the network card is can be replaced pretty easily By following these steps:
+ 1.  Remove the 8 or 6 screws on the back, depending on the model
+2.  It is easiest to start right at the Kensington lock and slowly pry up the keyboard
+3.  Remove the ribbon cables for the keyboard and the trackpad once the keyboard is up
+4. The network card is screwed in with one screw on the left side of the Chromebook motherboard. Unscrew the one screw and disconnect the two antenna cables carefully and it can be removed. 
+
+ Important things to note for Network Issues
+ - When removeing the antennas It is important to remember the order of the antennas because it can cause issues if they're swapped.
+ - Try to use the same brand of network card because it can also cause issues or have networks not even show up. The Chromebooks use the following brands
+	 - 17 & 18 - Intel
+	 - 19 - Qualcomm
+	 - 21 - Realtek
+- There's also network issues going on currently where replacing the network card in a Chromebook will cause it connect to the network again which makes it seem like it's a network card issue but putting that network card in a 17 or 18 the network card will work.
+
 ## Other
 #### Imaging A Chromebook
 Imaging the Chromebook can fix a lot of issues like being slow/unresponsive or sometimes the camera not showing up or network issues. A Chromebook can be imaged by pressing ESC+ the reboot sign + power at the same time. The Chromebook will reboot, and a different screen will come up asking to insert a flash drive. The imaging USBs are labeled with the year, except the 20 Chromebooks. The textured 20 Chromebook uses the 19 imaging USB and the smooth 20 Chromebook uses the USB marked 20 -S.
